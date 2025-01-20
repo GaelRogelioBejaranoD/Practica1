@@ -55,7 +55,7 @@ class MyHomePage extends StatelessWidget {
                               MainAxisAlignment.center, // Center vertically
                           children: List.generate(7, (index) {
                             return Text(
-                              'Bla Bla Bla',
+                              'Blai Bla Bla',
                               style: TextStyle(
                                   color: Color(0xff000000), fontSize: 16),
                             );
